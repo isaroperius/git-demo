@@ -3,3 +3,5 @@ this is the fiest filr
 another text is added.
 
 third text is added (after the first commit of multiverse)
+master text -1
+master text -1
